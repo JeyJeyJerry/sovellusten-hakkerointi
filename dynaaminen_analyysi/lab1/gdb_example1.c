@@ -11,10 +11,10 @@ void print_scrambled(char *message)
 
 int main()
 {
-  char * bad_message = NULL;
+//  char * bad_message = NULL;
   char * good_message = "Hello, world.";
 
   print_scrambled(good_message);
-  print_scrambled(bad_message);
+//  print_scrambled(bad_message);
 }
 
